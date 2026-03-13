@@ -65,7 +65,6 @@ Inspired by [CommandOSS](https://github.com/hoangteo0103/CommandOSS) and other W
 ### Installation
 
 ```bash
-cd shelby-game-vault
 npm install
 ```
 
